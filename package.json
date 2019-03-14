@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/CitruXonve/cryptocoin-convert.git"
   },
-  "author": "",
+  "author": "CitruXonve",
   "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/CitruXonve/cryptocoin-convert/issues"
   },
-  "homepage": "https://github.com/CitruXonve/cryptocoin-convert#readme"
+  "homepage": "https://github.com/CitruXonve/cryptocoin-convert#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
