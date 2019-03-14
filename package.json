@@ -1,0 +1,19 @@
+{
+  "name": "cryptocoin_conversion",
+  "version": "1.0.0",
+  "description": "Practice features of ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CitruXonve/cryptocoin-convert.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/CitruXonve/cryptocoin-convert/issues"
+  },
+  "homepage": "https://github.com/CitruXonve/cryptocoin-convert#readme"
+}
