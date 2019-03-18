@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CitruXonve/cryptocoin-convert#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "url": "^0.11.0"
   }
 }

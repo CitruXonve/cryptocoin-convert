@@ -1,4 +1,5 @@
 exports.CryptoCoin = class {
+    //  commonJS syntax instead of ES6 syntax; need Babel support
     constructor(id, name, sym, usd_price) {
         this.id = id;
         this.name = name;
